@@ -1,0 +1,32 @@
+.cabecera {
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+}
+
+.cabe-texto {
+    text-decoration: none;
+    color: black;
+}
+
+.pie {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+.card-name {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.card-title {
+    color: yellowgreen;
+}
+
+.card-text {
+    color: blue;
+}
+
+
+
